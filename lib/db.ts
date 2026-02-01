@@ -93,11 +93,11 @@ export const db = {
           description: "Transforming dental care in Jalgaon with microscopic precision, ethical practices, and a 100% painless treatment focus."
         },
         doctorProfile: {
-          name: "Dr. Sameer Patil",
+          name: "Dr. mayur mahajan",
           speciality: "MDS - Endodontist & Implantologist",
           qualifications: "MDS (Endodontics), BDS, Fellowship in Oral Implantology",
-          bio: "Dr. Sameer Patil is a renowned dental specialist in Jalgaon, known for his expertise in microscopic root canal treatments and digital implantology. With a focus on ethical practices and patient comfort, he has successfully treated thousands of complex dental cases, ensuring long-term results and pain-free experiences.",
-          image: "https://images.unsplash.com/photo-1622253692010-333f2da6031d?auto=format&fit=crop&q=80&w=800",
+          bio: "Dr. mayur mahajan is a renowned dental specialist in Jalgaon, known for his expertise in microscopic root canal treatments and digital implantology. With a focus on ethical practices and patient comfort, he has successfully treated thousands of complex dental cases, ensuring long-term results and pain-free experiences.",
+          image: "https://images.jdmagicbox.com/v2/comp/jalgaon/q6/9999px257.x257.250912132318.t6q6/catalogue/dr-clips-jalgaon-bazar-jalgaon-dentists-p0gf6hljw6.jpg",
           yearsExperience: "10+",
           patientsServed: "15,000+"
         }
