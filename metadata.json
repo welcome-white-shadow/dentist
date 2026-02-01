@@ -1,0 +1,8 @@
+{
+  "name": "CLIPS DENTAL CLINIC - Premium Dental Care in Jalgaon",
+  "description": "A high-end, mobile-first website for CLIPS Dental Clinic in Jalgaon, featuring online booking, WhatsApp automation, and comprehensive dental services.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera"
+  ]
+}
