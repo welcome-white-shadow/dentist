@@ -134,8 +134,8 @@ export const getDoctors = (): Doctor[] => {
   if (!data) {
     const initial: Doctor[] = [
       {
-        id: 'dr-sameer',
-        name: 'Dr. Sameer Patil',
+        id: 'dr-mayur mahajan',
+        name: 'Dr. mayur mahajan',
         speciality: 'MDS - Endodontist',
         phone: '+91 77748 46801',
         email: 'sameer@clipsdental.in',
